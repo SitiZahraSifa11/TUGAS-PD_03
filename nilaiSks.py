@@ -58,3 +58,5 @@ for nilai, sks, mata_kuliah in [(algoritma, sks_algoritma, 'Algoritma'),
 IPK = total_nilai_bobot / total_sks
 
 print(f"Total IPK Anda adalah {IPK:.2f}")
+
+
